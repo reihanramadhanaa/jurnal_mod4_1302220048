@@ -6,5 +6,7 @@
         String kodebuah = obj_kodebuah.getKodeBuah(KodeBuah.Buah.Kelapa);
         Console.WriteLine("Kode buah " + KodeBuah.Buah.Kelapa + " " + kodebuah);
 
+
+
     }
 }
